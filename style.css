@@ -19,6 +19,9 @@ p{
   margin-left: 2%;
   padding-left: 2%;
 }
+section div img{
+  margin-top: 10px;
+}
 .half-width img{
   width: 85%;
 }
